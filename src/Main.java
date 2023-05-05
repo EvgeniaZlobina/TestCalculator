@@ -8,7 +8,7 @@ public class Main {
       bonus = 20;
       double mill;
       mill = st/bonus;
-        System.out.printf("результат " +mill);
+        System.out.printf("результат = " +mill);
 
 
 
